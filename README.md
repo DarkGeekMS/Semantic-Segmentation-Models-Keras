@@ -38,11 +38,11 @@ The Network Architectures Included:
 ### How to Use it 
 
 - First, Clone the repository.
-- To run model training:
-  -- First, you need to edit "train.py" file to set some variables indicated inside.
+- To run model training: \
+  -- First, you need to edit "train.py" file to set some variables indicated inside. \
   -- Then, run "train.py".
-- To run inference:
-  -- First, you need to edit "test.py" file to set some variables indicated inside.
+- To run inference: \
+  -- First, you need to edit "test.py" file to set some variables indicated inside. \
   -- Then, run "test.py".
   
   
